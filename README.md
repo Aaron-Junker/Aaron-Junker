@@ -1,6 +1,6 @@
 ### Hi I'm Aaron Junker
 
-I work on projects for [Case-Games](https://github.com/Case-Games) and other Projects like the [PowerToys](https://github.com/microsoft/PowerToys).
+I work various own projects and other Projects like the [PowerToys](https://github.com/microsoft/PowerToys).
 
 I live in Switzerland. 
 
