@@ -1,9 +1,9 @@
 ### Hi I'm Aaron Junker
 
-I work various own projects and other Projects like the [PowerToys](https://github.com/microsoft/PowerToys).
+I work on various own projects and other Projects like [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Read more about my projects](https://blog.aaron-junker.ch/projects/)).
 
 I live in Switzerland. 
 
-My English isn't always the best, but I'm getting better with the time.
+If you like you can visit my [blog](https://aaron-junker.github.io).
 
-You can read my [blog](https://aaron-junker.github.io).
+<a rel="me" href="https://phpc.social/@AaronJunker"></a>
