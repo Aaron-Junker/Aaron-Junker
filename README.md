@@ -1,6 +1,6 @@
 ### Hi I'm Aaron Junker
 
-I work on various own projects and other Projects like [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Read more about my projects](https://blog.aaron-junker.ch/projects/)).
+I'm a Windows Insider MVP and work on various own projects and other Projects like [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Read more about my projects](https://blog.aaron-junker.ch/projects/)).
 
 I live in Switzerland. 
 
